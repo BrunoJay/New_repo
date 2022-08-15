@@ -282,13 +282,14 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"firebase-messaging-sw.js": "893edf1d9be081212f1482ae7407743c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f9816d81ef7ec0602a1270897178c9a0",
-"/": "f9816d81ef7ec0602a1270897178c9a0",
-"main.dart.js": "6fdfa7769b144bf99752c60182ba7d8f",
+"index.html": "310230891a7433584385de334970db04",
+"/": "310230891a7433584385de334970db04",
+"main.dart.js": "a0654c5d530b5aab7719584b9dfc9fc8",
 "manifest.json": "a909f625edeb7c6b8834945702befcdd",
 "version.json": "0db956a33cfeebc06af07c74b6583245"
 };
